@@ -1,18 +1,22 @@
 ---
 title: Neil Hester
 role: Postdoctoral Researcher
-avatar_filename: neilrhester.png
+avatar_filename: avatar.png
 organizations:
   - name: Hehman Lab, McGill University
     url: hehmanlab.org
 superuser: true
 authors:
   - admin
-bio: "I research intersectionality in person perception and stereotyping. "
+bio: I research intersectionality in person perception and stereotyping, with a
+  particular interest in exactly how stereotypes/perceptions translate to
+  discrimination/outcomes.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Intersectionality
+  - Stereotyping and Discrimination
+  - Person Perception
+  - Decision Models
+  - Morality
 social:
   - icon: google-scholar
     icon_pack: ai
@@ -35,4 +39,4 @@ email: ""
 user_groups:
   - ""
 ---
-BIO HERE
+UNDER CONSTRUCTION
