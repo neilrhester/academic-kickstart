@@ -8,7 +8,7 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: I research intersectionality in person perception and stereotyping, with a
+bio: I research intersectionality in stereotyping and person perception, with a
   particular interest in exactly how stereotypes/perceptions translate to
   discrimination/outcomes.
 interests:
@@ -27,6 +27,9 @@ social:
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Neil_Hester?ev=hdr_xprf
+  - link: mailto:neilrhester@gmail.com
+    icon_pack: far
+    icon: envelope
 education:
   courses:
     - course: PhD in Social Psychology
