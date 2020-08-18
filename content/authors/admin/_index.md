@@ -19,10 +19,10 @@ interests:
   - Morality
 social:
   - icon: google-scholar
-    icon_pack: ai
+    icon_pack: fab
     link: https://scholar.google.com/citations?user=IFLcjSsAAAAJ&hl=en
   - icon: twitter
-    icon_pack: ai
+    icon_pack: fab
     link: https://twitter.com/neilrhester
   - icon: researchgate
     icon_pack: fab
