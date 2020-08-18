@@ -1,7 +1,7 @@
 ---
 title: Neil Hester
 role: Postdoctoral Researcher
-avatar_filename: ""
+avatar_filename: avatar.png
 organizations:
   - name: Hehman Lab, McGill University
     url: hehmanlab.org
