@@ -42,7 +42,7 @@ height = "650px"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "tdt_c.png"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.70  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.75  # Darken the image. Value in range 0-1.
   
   cta_label = "Learn More"
   cta_url = "https://neilrhester.com/post/intersectional-stereotyping-and-discrimination/"
@@ -54,9 +54,9 @@ height = "650px"
   content = "Moral psychology uses tightly controlled scenarios in which identities of characters are often unspecified or vague. Studies using these raceless, genderless strangers highlight the important structural elements of moral acts, but may not generalize to real-world judgments."
   align = "center"
 
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "rgs.png"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.75  # Darken the image. Value in range 0-1.
   
   cta_label = "Learn More"
   cta_url = "https://neilrhester.com/post/intersectional-stereotyping-and-discrimination/"
