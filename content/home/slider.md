@@ -17,7 +17,7 @@ height = "650px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Intersectional Discrimination from Simple Stereotypes"
-  content = "Discrimination is often intersectional. For example, Black men are disproportionately stopped by police to a degree that cannot be explained by simple effects of being Black and being male. But, intersectional discrimination can sometimes emerge from simple stereotypes combined with threshold models of behavior—e.g., if someone’s threat level seems higher than X, stop that person."
+  content = "Discrimination is often intersectional. For example, Black men are disproportionately stopped by police to a degree that cannot be explained by simple effects of being Black and being male. But, intersectional discrimination can sometimes emerge from simple stereotypes combined with threshold models of behavior."
   align = "center"  # Choose `center`, `left`, or `right`.
   
 
@@ -31,7 +31,7 @@ height = "650px"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Learn More"
-  cta_url = "https://neilrhester.com/posts"
+  cta_url = "https://neilrhester.com/post/intersectional-stereotyping-and-discrimination/"
   cta_icon_pack = "fas"
   cta_icon = "chart-area"
 
