@@ -4,7 +4,7 @@ role: Postdoctoral Researcher
 avatar_filename: avatar.png
 organizations:
   - name: Hehman Lab, McGill University
-    url: hehmanlab.org
+    link: http://hehmanlab.org
 superuser: true
 authors:
   - admin
