@@ -3,7 +3,7 @@
 # This section displays recent blog posts from `content/publication/`.
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
+headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
@@ -26,8 +26,6 @@ weight = 80  # Order that this section will appear.
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
-  
-  columns="1"
   
 [advanced]
  # Custom CSS. 
