@@ -1,7 +1,7 @@
 ---
 title: Intersectional Stereotyping and Discrimination
 date: 2020-08-19T02:48:14.872Z
-draft: false
+draft: true
 featured: false
 image:
   filename: featured
