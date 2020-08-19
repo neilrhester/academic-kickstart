@@ -1,7 +1,7 @@
 ---
 title: Neil Hester
 role: Postdoctoral Researcher
-avatar_filename: avatar.png
+avatar_filename: ""
 organizations:
   - name: Hehman Lab, McGill University
     url: hehmanlab.org
@@ -42,4 +42,6 @@ email: ""
 user_groups:
   - ""
 ---
-UNDER CONSTRUCTION
+I research stereotyping and discrimination, person perception, and social cognition, with a focus on two specific topics. One emphasis for me is *intersectionality*, which describes the unique patterns of stereotyping and discrimination that emerge from having multiple identities (e.g., being a Black woman or a gay man). The other emphasis is on *decision models*, which describe exactly how cognitions (e.g., stereotypes) translate to behaviors (e.g., discrimination).
+
+My work mixes three main quantitative approaches: experiments, big data analysis, and simulation. I have published papers in various outlets, such as *The Proceedings of the National Academy of Sciences,* *Psychological Science,* and *Perspectives of Psychological Science*.
