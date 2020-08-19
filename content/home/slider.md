@@ -11,7 +11,7 @@ interval = false
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "650px"
+height = "660px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -36,8 +36,8 @@ height = "650px"
   cta_icon = "chart-area"
 
 [[item]]
-  title = "Race-by-Height Intersectionality"
-  content = "Most research on height suggests that being tall is advantageous for men, making them seem more attractive and intelligent. However, this research almost exclusively studied White men. For Black men, being tall increases perceptions of threat, which helps explain why tall Black men have been disproportionately stopped by police.</br></br>"
+  title = "Race-by-Height Stereotyping"
+  content = "Most research on height suggests that being tall is advantageous for men, making them seem more attractive and intelligent. However, this research almost exclusively studied White men. For Black men, being tall increases perceptions of threat as well as the likelihood of being stopped by police. This work shows how intersectional stereotyping can be "hidden" when groups are excluded from research.</br></br>"
   align = "center"
 
   overlay_color = "#666"  # An HTML color value.
