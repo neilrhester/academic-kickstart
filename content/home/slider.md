@@ -40,9 +40,9 @@ height = "650px"
   content = "Most research on height suggests that being tall is advantageous for men, making them seem more attractive and intelligent. However, this research almost exclusively studied White men. For Black men, being tall increases perceptions of threat, which helps explain why tall Black men have been disproportionately stopped by police.</br></br>"
   align = "center"
 
-  overlay_color = "#555"  # An HTML color value.
+  overlay_color = "#666"  # An HTML color value.
   overlay_img = "tdt_c.png"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.82  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.74  # Darken the image. Value in range 0-1.
   
   cta_label = "Learn More"
   cta_url = "https://neilrhester.com/post/intersectional-stereotyping-and-discrimination/"
@@ -56,7 +56,7 @@ height = "650px"
 
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "rgs_c.png"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.82  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.73  # Darken the image. Value in range 0-1.
   
   cta_label = "Learn More"
   cta_url = "https://neilrhester.com/post/intersectional-stereotyping-and-discrimination/"
@@ -70,7 +70,7 @@ height = "650px"
 
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "femmasc_c.png"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.82  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.79  # Darken the image. Value in range 0-1.
   
   cta_label = "Learn More"
   cta_url = "https://neilrhester.com/post/intersectional-stereotyping-and-discrimination/"
