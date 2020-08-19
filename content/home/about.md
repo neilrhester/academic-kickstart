@@ -14,5 +14,5 @@ author = "admin"
 
 [background]
 gradient_start = "#f8f8fa"
-gradient_end = "#d2d4dc"
+gradient_end = "#afafaf"
 +++
