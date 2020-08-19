@@ -11,13 +11,13 @@ interval = false
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "660px"
+height = "670px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Intersectional Discrimination, Simple Stereotypes"
-  content = "Discrimination is often intersectional. For example, Black men are disproportionately stopped by police to a degree that cannot be explained by simple effects of being Black and being male. These complex patterns of discrimination can sometimes emerge from simple stereotypes combined with threshold models of behavior.</br></br>"
+  content = "Discrimination is often intersectional. For example, Black men are disproportionately stopped by police to a degree that cannot be explained by simple effects of being Black and being male. These complex patterns of discrimination might seem to necessitate intersectional stereotypes; however, they can sometimes emerge from simple stereotypes combined with threshold models of behavior.</br></br>"
   align = "center"  # Choose `center`, `left`, or `right`.
   
 
@@ -51,7 +51,7 @@ height = "660px"
 
 [[item]]
   title = "Raceless Genderless Strangers"
-  content = "Moral psychology uses tightly controlled scenarios in which identities of characters are often unspecified or vague. Studies using these raceless, genderless strangers highlight the important structural elements of moral acts, but may not generalize to real-world judgments.</br></br>"
+  content = "Moral psychology uses tightly controlled scenarios in which identities of characters are often unspecified or vague. Studies using these raceless, genderless strangers highlight the important structural elements of moral acts, but may not generalize to real-world judgments. Future work in moral psychology should draw on intersectional theory to capture the nuance of real-world judgments.</br></br>"
   align = "center"
 
   overlay_color = "#666"  # An HTML color value.
@@ -65,7 +65,7 @@ height = "660px"
   
   [[item]]
   title = "Femininity and Masculinity in Face Perception"
-  content = "In person perception, femininity and masculinity are often thought of as two ends of a single dimensions. However, femininity and masculinity are actually distinct dimensions that combine (additively and interactively) to predict trait judgments. This research broadly shows that semantic opposites are not necessarily psychological opposites.</br></br>"
+  content = "In person perception, femininity and masculinity are often thought of as two ends of a single dimensions. However, femininity and masculinity are actually distinct dimensions that combine (additively and interactively) to predict trait judgments, with high facial androgyny predicting positive outcomes for men. This research broadly shows that semantic opposites are not necessarily psychological opposites.</br></br>"
   align = "center"
 
   overlay_color = "#666"  # An HTML color value.
