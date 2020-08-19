@@ -17,7 +17,7 @@ height = "650px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Intersectional Discrimination from Simple Stereotypes"
-  content = "Discrimination is often intersectional. For example, Black men are disproportionately stopped by police to a degree that cannot be explained by simple effects of being Black and being male. But, intersectional discrimination can sometimes emerge from simple stereotypes combined with threshold models of behavior.</br>"
+  content = "Discrimination is often intersectional. For example, Black men are disproportionately stopped by police to a degree that cannot be explained by simple effects of being Black and being male. But, intersectional discrimination can sometimes emerge from simple stereotypes combined with threshold models of behavior.</br></br>"
   align = "center"  # Choose `center`, `left`, or `right`.
   
 
@@ -37,7 +37,7 @@ height = "650px"
 
 [[item]]
   title = "Race-by-Height Intersectionality"
-  content = "Most research on height suggests that being tall is advantageous for men, making them seem more attractive and intelligent. However, this research almost exclusively used White men. For Black men, being tall increases perceptions of threat, which helps explain why tall Black men have been disproportionately stopped by police."
+  content = "Most research on height suggests that being tall is advantageous for men, making them seem more attractive and intelligent. However, this research almost exclusively studied White men. For Black men, being tall increases perceptions of threat, which helps explain why tall Black men have been disproportionately stopped by police."
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
@@ -55,7 +55,7 @@ height = "650px"
   align = "center"
 
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "rgs.png"  # Image path relative to your `static/media/` folder.
+  overlay_img = "rgs_c.png"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.75  # Darken the image. Value in range 0-1.
   
   cta_label = "Learn More"
