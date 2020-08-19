@@ -3,7 +3,8 @@ title: Neil Hester
 role: Postdoctoral Researcher
 avatar_filename: avatar.png
 organizations:
-  - name: <a href="http://hehmanlab.org">Seeing Human Lab, McGill University</a>
+  - name: Seeing Human Lab, McGill University
+    url: http://hehmanlab.org
 superuser: true
 authors:
   - admin
