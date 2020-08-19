@@ -25,7 +25,7 @@ height = "650px"
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "threshold_c.png"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.75  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.82  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -42,7 +42,7 @@ height = "650px"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "tdt_c.png"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.75  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.82  # Darken the image. Value in range 0-1.
   
   cta_label = "Learn More"
   cta_url = "https://neilrhester.com/post/intersectional-stereotyping-and-discrimination/"
@@ -56,12 +56,24 @@ height = "650px"
 
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "rgs_c.png"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.75  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.82  # Darken the image. Value in range 0-1.
   
   cta_label = "Learn More"
   cta_url = "https://neilrhester.com/post/intersectional-stereotyping-and-discrimination/"
   cta_icon_pack = "fas"
   cta_icon = "theater_masks"
+  
+  [[item]]
+  title = "Femininity and Masculinity in Face Perception"
+  content = "In person perception, femininity and masculinity are often thought of as two ends of a single dimensions. However, femininity and masculinity are actually distinct dimensions that combine (additively and interactively) to predict trait judgments. This research broadly shows that semantic opposites are not necessarily psychological opposites.</br></br>"
+  align = "center"
+
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "femmasc_c.png"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.82  # Darken the image. Value in range 0-1.
+  
+  cta_label = "Learn More"
+  cta_url = "https://neilrhester.com/post/intersectional-stereotyping-and-discrimination/"
+  cta_icon_pack = "fas"
+  cta_icon = "virgo_mars"
 +++
-
-
