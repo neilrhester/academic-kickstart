@@ -19,12 +19,14 @@ height = "600px"
   title = "Intersectionality"
   content = "Intersectional stereotyping is responsible for some of the unique disadvantages faced by specific groups. The way that psychologists conduct research, these intersectional stereotypes are sometimes not apparent because of a focus on mostly White, mostly male targets (a problem that I have written about). For example, most work suggests that being tall is advantageous to men because it makes them seem more attractive and intelligent. My work has shown that this is true for White men, but not for Black men; tall Black men are instead perceived as more threatening, which helps explain why tall Black men were disproportionately stopped by NYPD police during the height of stop-and-frisk."
   align = "center"  # Choose `center`, `left`, or `right`.
+  
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "avatar.png"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  highlight_style = "solarized_dark"
 
 [[item]]
   title = "Threshold Models"
@@ -43,4 +45,10 @@ height = "600px"
   overlay_color = "#333"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+[advanced]
+ # Custom CSS. 
+ css_style = ""
 +++
+
+
