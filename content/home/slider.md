@@ -16,7 +16,7 @@ height = "670px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Intersectional Discrimination, Simple Stereotypes"
+  title = "Intersectional Discrimination,</br>Simple Stereotypes"
   content = "Discrimination is often intersectional. For example, Black men are disproportionately stopped by police to a degree that cannot be explained by simple effects of being Black and being male. These complex patterns of discrimination might seem to necessitate intersectional stereotypes; however, they can sometimes emerge from simple stereotypes combined with threshold models of behavior.</br></br>"
   align = "center"  # Choose `center`, `left`, or `right`.
   
