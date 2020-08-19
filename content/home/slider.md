@@ -60,8 +60,8 @@ height = "650px"
   
   cta_label = "Learn More"
   cta_url = "https://neilrhester.com/post/intersectional-stereotyping-and-discrimination/"
-  cta_icon_pack = "fas"
-  cta_icon = "theater_mask"
+  cta_icon_pack = "far"
+  cta_icon = "theater_masks"
   
   [[item]]
   title = "Femininity and Masculinity in Face Perception"
@@ -74,6 +74,6 @@ height = "650px"
   
   cta_label = "Learn More"
   cta_url = "https://neilrhester.com/post/intersectional-stereotyping-and-discrimination/"
-  cta_icon_pack = "fas"
+  cta_icon_pack = "far"
   cta_icon = "venus_mars"
 +++
