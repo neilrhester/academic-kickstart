@@ -37,7 +37,7 @@ height = "650px"
 
 [[item]]
   title = "Race-by-Height Intersectionality"
-  content = "Most research on height suggests that being tall is advantageous for men, making them seem more attractive and intelligent. However, this research almost exclusively studied White men. For Black men, being tall increases perceptions of threat, which helps explain why tall Black men have been disproportionately stopped by police."
+  content = "Most research on height suggests that being tall is advantageous for men, making them seem more attractive and intelligent. However, this research almost exclusively studied White men. For Black men, being tall increases perceptions of threat, which helps explain why tall Black men have been disproportionately stopped by police.</br></br>"
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
@@ -51,7 +51,7 @@ height = "650px"
 
 [[item]]
   title = "Raceless Genderless Strangers"
-  content = "Moral psychology uses tightly controlled scenarios in which identities of characters are often unspecified or vague. Studies using these raceless, genderless strangers highlight the important structural elements of moral acts, but may not generalize to real-world judgments."
+  content = "Moral psychology uses tightly controlled scenarios in which identities of characters are often unspecified or vague. Studies using these raceless, genderless strangers highlight the important structural elements of moral acts, but may not generalize to real-world judgments.</br></br>"
   align = "center"
 
   overlay_color = "#666"  # An HTML color value.
@@ -61,7 +61,7 @@ height = "650px"
   cta_label = "Learn More"
   cta_url = "https://neilrhester.com/post/intersectional-stereotyping-and-discrimination/"
   cta_icon_pack = "fas"
-  cta_icon = "mask"
+  cta_icon = "theater_masks"
 +++
 
 
