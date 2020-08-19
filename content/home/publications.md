@@ -45,7 +45,7 @@ gradient_end = "#e5e6eb"
  css_class = ""
 +++
 
-</br></br></br>
+</br></br>
 <p><strong>Hester, N.,</strong> Payne, K., Brown-Iannuzzi, J., & Gray, K. (2020) <a href="https://neilrhester.com/files/PSCI_2020.pdf">On intersectionality: How complex patterns of discrimination emerge from simple stereotypes.</a> <em>Psychological Science.</em></p> 
 <p><strong>Hester, N.,</strong> & Gray, K. (2020) <a href="https://neilrhester.com/files/POPS_2020.pdf">The moral psychology of raceless, genderless strangers.</a> <em>Perspectives on Psychological Science.</em></p>
 <p><strong>Hester, N.,</strong> Payne, K., & Gray, K. (2020) <a href="https://neilrhester.com/files/JESP_2020.pdf">Promiscuous condemnation: People assume immorality for ambiguous actions.</a> <em>Journal of Experimental Social Psychology.</em></p>
@@ -59,4 +59,5 @@ gradient_end = "#e5e6eb"
 <p>Larsen, J. T., Hershfield, H. E., <strong>Hester, N.,</strong> &amp; Stastny, B. J. (2017). <a href="https://neilrhester.com/files/EMO_2017.pdf">On the relationship between positive and negative affect: Their correlation and their co-occurrence.</a> <em>Emotion.</em></p>
 <p>Buck, B., <strong>Hester, N.,</strong> Penn, D. L., &amp; Gray, K. (2017) <a href="https://neilrhester.com/files/CNP_2017.pdf">Mind perception in subclinical psychosis: Evidence for differential patterns in perceptions of mind in schizotypy and paranoia.</a> <em>Cognitive Neuropsychiatry.</em></p>
 <p>Schein, C., <strong>Hester, N.</strong> &amp; Gray, K. (2016). <a href="https://neilrhester.com/files/SPPC_2016.pdf">The visual guide to morality: Vision as an integrative analogy for moral experience, variability and mechanism.</a> <em>Social and Personality Psychology Compass.</em></p>
+</br></br>
 
