@@ -24,6 +24,9 @@ social:
   - link: mailto:neilrhester@gmail.com
     icon_pack: far
     icon: envelope
+  - icon: cv
+    icon_pack: ai
+    link: https://neilrhester.com/files/cv.pdf
 ---
 
 </br>
