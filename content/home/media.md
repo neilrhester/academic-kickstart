@@ -55,7 +55,7 @@ subtitle = ""
 <p><a href="https://www.spsp.org/member-spotlight/neil-hester">Member Spotlight</a> — Society for Personality and Social Psychology</p>
 
 <p><a href="https://www.mcgill.ca/psychology/article/neil-hester">In The Spotlight</a>  — McGill University</p>
-
+</br>
 <p><b>Selected Research Coverage:</b></p>
 
 <p><a href="https://psmag.com/social-justice/the-problem-with-being-tall-male-and-black">The Problem with Being Tall, Male, and Black</a> &#8212; The Pacific Standard</p>
