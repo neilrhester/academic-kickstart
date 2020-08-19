@@ -27,7 +27,7 @@ weight = 80  # Order that this section will appear.
   # Text color (true=light or false=dark).
   # text_color_light = true  
   
-  columns=1
+  columns="1"
   
 [advanced]
  # Custom CSS. 
