@@ -31,7 +31,7 @@ height = "650px"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Learn More"
-  cta_url = "https://neilrhester.com/post/intersectional-stereotyping-and-discrimination/"
+  cta_url = "https://neilrhester.com/files/PSCI_2020.pdf"
   cta_icon_pack = "fas"
   cta_icon = "chart-area"
 
@@ -45,7 +45,7 @@ height = "650px"
   overlay_filter = 0.74  # Darken the image. Value in range 0-1.
   
   cta_label = "Learn More"
-  cta_url = "https://neilrhester.com/post/intersectional-stereotyping-and-discrimination/"
+  cta_url = "https://neilrhester.com/files/PNAS_2018.pdf"
   cta_icon_pack = "fas"
   cta_icon = "id-card"
 
@@ -59,7 +59,7 @@ height = "650px"
   overlay_filter = 0.73  # Darken the image. Value in range 0-1.
   
   cta_label = "Learn More"
-  cta_url = "https://neilrhester.com/post/intersectional-stereotyping-and-discrimination/"
+  cta_url = "https://neilrhester.com/files/POPS_2020.pdf"
   cta_icon_pack = "fas"
   cta_icon = "theater-masks"
   
@@ -72,8 +72,8 @@ height = "650px"
   overlay_img = "femmasc_c.png"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.79  # Darken the image. Value in range 0-1.
   
-  cta_label = "Learn More"
-  cta_url = "https://neilrhester.com/post/intersectional-stereotyping-and-discrimination/"
+  cta_label = "Paper Under Review"
+  cta_url = ""
   cta_icon_pack = "fas"
   cta_icon = "venus-mars"
 +++
