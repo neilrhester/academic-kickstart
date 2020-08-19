@@ -12,7 +12,7 @@ title = ""
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
 
-[design.background]
+[background]
 gradient_start = "#f8f8fa"
 gradient_end = "#d2d4dc"
 +++
