@@ -20,8 +20,8 @@ subtitle = ""
   # Background color.
   # color = "navy"
  
-gradient_start = "#f8f8fa"
-gradient_end = "#c0c2ce"
+gradient_start = "#e5e6eb"
+gradient_end = "#e5e6eb"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
