@@ -37,7 +37,7 @@ height = "660px"
 
 [[item]]
   title = "Race-by-Height Stereotyping"
-  content = "Most research on height suggests that being tall is advantageous for men, making them seem more attractive and intelligent. However, this research almost exclusively studied White men. For Black men, being tall increases perceptions of threat as well as the likelihood of being stopped by police. This work shows how intersectional stereotyping can be "hidden" when groups are excluded from research.</br></br>"
+  content = "Research on height suggests that being tall is advantageous for men, making them seem more attractive and intelligent. However, this research almost exclusively studied White men. For Black men, being tall increases perceptions of threat as well as the likelihood of being stopped by police. Failure to sample diversely has likely obscured intersectional stereotyping across various domains.</br></br>"
   align = "center"
 
   overlay_color = "#666"  # An HTML color value.
