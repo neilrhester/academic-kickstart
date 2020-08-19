@@ -42,7 +42,7 @@ height = "650px"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "tdt_c.png"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.70  # Darken the image. Value in range 0-1.
   
   cta_label = "Learn More"
   cta_url = "https://neilrhester.com/post/intersectional-stereotyping-and-discrimination/"
@@ -50,13 +50,18 @@ height = "650px"
   cta_icon = "id-card"
 
 [[item]]
-  title = "Gendered Face Perception"
-  content = "FILLER"
+  title = "Raceless Genderless Strangers"
+  content = "Moral psychology uses tightly controlled scenarios in which identities of characters are often unspecified or vague. Studies using these raceless, genderless strangers highlight the important structural elements of moral acts, but may not generalize to real-world judgments."
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+  cta_label = "Learn More"
+  cta_url = "https://neilrhester.com/post/intersectional-stereotyping-and-discrimination/"
+  cta_icon_pack = "fas"
+  cta_icon = "mask"
 +++
 
 
