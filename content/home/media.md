@@ -49,7 +49,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-</br></br>
 <p><b>Professional Interviews:</b></p>
 
 <p><a href="https://www.spsp.org/member-spotlight/neil-hester">Member Spotlight</a> — Society for Personality and Social Psychology</p>
