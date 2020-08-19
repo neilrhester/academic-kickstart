@@ -36,13 +36,18 @@ height = "650px"
   cta_icon = "chart-area"
 
 [[item]]
-  title = "FILLER"
-  content = "FILLER"
+  title = "Race-by-Height Intersectionality"
+  content = "Most research on height suggests that being tall is advantageous for men, making them seem more attractive and intelligent. However, this is not true for Black men:  tall Black men are instead perceived as threatening, such that they were disproportionately stopped by NYPD police (2006-2012)."
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/media/` folder.
+  overlay_img = "tdt_c.png"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+  cta_label = "Learn More"
+  cta_url = "https://neilrhester.com/post/intersectional-stereotyping-and-discrimination/"
+  cta_icon_pack = "fas"
+  cta_icon = "id-card"
 
 [[item]]
   title = "Gendered Face Perception"
