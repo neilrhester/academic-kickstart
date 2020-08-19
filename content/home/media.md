@@ -22,11 +22,11 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "c0c2ce"
   
   # Background gradient.
-  gradient_start = "#e5e6eb"
-  gradient_end = "#e7e1f7"
+  # gradient_start = "#e5e6eb"
+  # gradient_end = "#e7e1f7"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
@@ -49,7 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
+</br></br>
 <p><b>Professional Interviews:</b></p>
 
 <p><a href="https://www.spsp.org/member-spotlight/neil-hester">Member Spotlight</a> — Society for Personality and Social Psychology</p>
