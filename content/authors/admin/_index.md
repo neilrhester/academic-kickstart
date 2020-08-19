@@ -26,7 +26,7 @@ social:
     icon: envelope
 ---
 
-</br></br>
+</br>
 I research stereotyping and discrimination, person perception, and social cognition, with a focus on two specific topics. One emphasis for me is *intersectionality*, which describes the unique patterns of stereotyping and discrimination that emerge from having multiple identities (e.g., being a Black woman or a gay man). The other emphasis is on *decision models*, which describe exactly how cognitions (e.g., stereotypes) translate to behaviors (e.g., discrimination).
 
-My work mixes three quantitative approaches: experimentatation, simulation, and big data analysis. I have published papers in various outlets, such as *The Proceedings of the National Academy of Sciences,* *Psychological Science,* and *Perspectives on Psychological Science*.
+My work mixes three quantitative approaches: experimentatation, simulation, and big data analysis. I have published papers in various outlets, such as *The Proceedings of the National Academy of Sciences,* *Psychological Science,* and *Perspectives on Psychological Science*. In my spare time, I enjoy playing/watching basketball, singing, and writing music (I have an EP with a friend called <a href="https://open.spotify.com/album/0uvxgVQmEKo3FpHdRjhN1I?si=NISzzj5nQ_WtViVCEpOLVQ&fbclid=IwAR1MbbgOn3OFGy6ReI_TlBSKGseazaGQIz351pFd9qAl7UsJ6cQgumMnl0o">Sunfall</a>).
