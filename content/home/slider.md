@@ -16,28 +16,27 @@ height = "650px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Intersectionality"
-  content = "FILLER"
+  title = "Intersectional Discrimination from Simple Stereotypes"
+  content = "Discrimination is often intersectional. For example, Black men are disproportionately stopped by police to a degree that cannot be explained by simple effects of being Black and being male. But, intersectional discrimination can sometimes emerge from simple stereotypes combined with threshold models of behavior—e.g., if someone’s threat level seems higher than X, stop that person."
   align = "center"  # Choose `center`, `left`, or `right`.
   
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "neilrhester.png"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-  highlight_style = "solarized_dark"
+  overlay_color = ""  # An HTML color value.
+  overlay_img = "threshold_c.png"  # Image path relative to your `static/media/` folder.
+  overlay_filter = .6  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Get Academic"
-  cta_url = "https://sourcethemes.com/academic/"
+  cta_label = "Learn More"
+  cta_url = "https://neilrhester.com/posts"
   cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  cta_icon = "chart-area"
 
 [[item]]
-  title = "Threshold Models"
+  title = "Race=by-Height"
   content = "FILLER"
   align = "center"
 
