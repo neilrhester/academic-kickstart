@@ -52,9 +52,9 @@ subtitle = ""
 
 <p><b>Professional Interviews:</b></p>
 
-<p><a href="https://www.spsp.org/member-spotlight/neil-hester">Member Spotlight — Society for Personality and Social Psychology</a></p>
+<p><a href="https://www.spsp.org/member-spotlight/neil-hester">Member Spotlight</a> — Society for Personality and Social Psychology</p>
 
-<p><a href="https://www.mcgill.ca/psychology/article/neil-hester">In The Spotlight — McGill University</a></p>
+<p><a href="https://www.mcgill.ca/psychology/article/neil-hester">In The Spotlight</a>  — McGill University</p>
 
 <p><b>Selected Research Coverage:</b></p>
 
