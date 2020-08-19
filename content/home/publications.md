@@ -46,6 +46,7 @@ subtitle = ""
  css_class = ""
 +++
 
+</br></br></br>
 <p><strong>Hester, N.,</strong> Payne, K., Brown-Iannuzzi, J., & Gray, K. (2020) <a href="https://neilrhester.com/files/PSCI_2020.pdf">On intersectionality: How complex patterns of discrimination emerge from simple stereotypes.</a> <em>Psychological Science.</em></p> 
 <p><strong>Hester, N.,</strong> & Gray, K. (2020) <a href="https://neilrhester.com/files/POPS_2020.pdf">The moral psychology of raceless, genderless strangers.</a> <em>Perspectives on Psychological Science.</em></p>
 <p><strong>Hester, N.,</strong> Payne, K., & Gray, K. (2020) <a href="https://neilrhester.com/files/JESP_2020.pdf">Promiscuous condemnation: People assume immorality for ambiguous actions.</a> <em>Journal of Experimental Social Psychology.</em></p>
