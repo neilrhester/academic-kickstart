@@ -17,7 +17,7 @@ height = "600px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Intersectionality"
-  content = "FILLER"
+  content = "Intersectional stereotyping is responsible for some of the unique disadvantages faced by specific groups. The way that psychologists conduct research, these intersectional stereotypes are sometimes not apparent because of a focus on mostly White, mostly male targets (a problem that I have written about). For example, most work suggests that being tall is advantageous to men because it makes them seem more attractive and intelligent. My work has shown that this is true for White men, but not for Black men; tall Black men are instead perceived as more threatening, which helps explain why tall Black men were disproportionately stopped by NYPD police during the height of stop-and-frisk."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
