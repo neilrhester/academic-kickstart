@@ -2,7 +2,7 @@
 name = "Academic"
 
 # Optional Google font URL
-google_fonts = "family=Lato:wght@300"
+google_fonts = "family=Lato:wght@350"
 
 # Font families
 heading_font = "Lato"
