@@ -27,11 +27,6 @@ social:
   - icon: cv
     icon_pack: ai
     link: https://neilrhester.com/files/cv.pdf
-    
-    
-[background]
-gradient_start = "#f8f8fa"
-gradient_end = "#afafaf"
 
 ---
 
