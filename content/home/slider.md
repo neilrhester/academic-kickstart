@@ -72,8 +72,8 @@ height = "670px"
   overlay_img = "femmasc_c.png"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.79  # Darken the image. Value in range 0-1.
   
-  cta_label = "Paper Under Review"
-  cta_url = "https://www.neilrhester.com"
+  cta_label = "Learn More"
+  cta_url = "https://psyarxiv.com/f2wkt"
   cta_icon_pack = "fas"
   cta_icon = "venus-mars"
 +++
