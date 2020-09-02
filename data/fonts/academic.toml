@@ -2,10 +2,10 @@
 name = "Academic"
 
 # Optional Google font URL
-google_fonts = "family=M+PLUS+Rounded+1c:wght@300"
+google_fonts = "family=Lato:wght@300"
 
 # Font families
-heading_font = "M PLUS Rounded 1c"
-body_font = "M PLUS Rounded 1c"
-nav_font = "M PLUS Rounded 1c"
+heading_font = "Lato"
+body_font = "Lato"
+nav_font = "Lato"
 mono_font = ""
