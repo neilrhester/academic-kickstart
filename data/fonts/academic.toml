@@ -2,10 +2,10 @@
 name = "Academic"
 
 # Optional Google font URL
-google_fonts = "family=Varela+Round"
+google_fonts = "family=M+PLUS+Rounded+1c:wght@300"
 
 # Font families
-heading_font = "Varela Round"
-body_font = "Varela Round"
-nav_font = "Varela Round"
+heading_font = "M PLUS Rounded 1 c"
+body_font = "M PLUS Rounded 1 c"
+nav_font = "M PLUS Rounded 1 c"
 mono_font = ""
