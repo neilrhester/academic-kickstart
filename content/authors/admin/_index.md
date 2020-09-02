@@ -1,5 +1,5 @@
 ---
-title: Neil Hester
+title: Neil Hester, PhD
 role: Postdoctoral Researcher
 avatar_filename: avatar.png
 organizations:
