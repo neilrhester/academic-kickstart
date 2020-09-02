@@ -2,7 +2,7 @@
 name = "Academic"
 
 # Optional Google font URL
-google_fonts = "family=Fira+Sans:wght@300"
+google_fonts = "family=Fira+Sans"
 
 # Font families
 heading_font = "Fira Sans"
