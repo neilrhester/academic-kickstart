@@ -5,7 +5,7 @@ name = "Academic"
 google_fonts = "family=M+PLUS+Rounded+1c:wght@300"
 
 # Font families
-heading_font = "M PLUS Rounded 1 c"
-body_font = "M PLUS Rounded 1 c"
-nav_font = "M PLUS Rounded 1 c"
+heading_font = "M PLUS Rounded 1c"
+body_font = "M PLUS Rounded 1c"
+nav_font = "M PLUS Rounded 1c"
 mono_font = ""
