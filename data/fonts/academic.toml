@@ -2,10 +2,10 @@
 name = "Academic"
 
 # Optional Google font URL
-google_fonts = "family=Lato:wght@330"
+google_fonts = "family=Alata"
 
 # Font families
-heading_font = "Lato"
-body_font = "Lato"
-nav_font = "Lato"
+heading_font = "Alata"
+body_font = "Alata"
+nav_font = "Alata"
 mono_font = ""
