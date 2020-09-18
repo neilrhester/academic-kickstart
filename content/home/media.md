@@ -61,4 +61,8 @@ subtitle = ""
 <p><a href="http://www.philly.com/philly/news/height-racism-bias-white-black-men-nypd-stop-and-frisk-unc-20180308.html">It&#8217;s good to be tall &#8211; unless you&#8217;re a black man</a> &#8212; Philadelphia Inquirer</p>
 <p><a href="https://blavity.com/tall-black-men-can-be-up-to-six-times-more-likely-to-be-stopped-by-cops-than-white-men-of-the-same-height">Tall Black Men Can Be Up To Six Times More Likely To Be Stopped By Cops Than White Men Of The Same Height</a> &#8212; Blavity</p>
 <p><a href="https://www.livescience.com/62798-how-american-christians-perceive-god.html">US Christians Think God Looks a Lot Like Them</a> &#8212; Live Science</p>
+</br>
+<p><b>Online Teaching Samples</b></p>
 
+<p><a href="https://osf.io/hv98t/">Variance and Dispersion</a></p>
+<p><a href="https://osf.io/9d2s5/">The Importance of Visualizing Correlations and Regressions</a></p>
