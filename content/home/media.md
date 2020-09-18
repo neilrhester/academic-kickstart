@@ -64,5 +64,5 @@ subtitle = ""
 </br>
 <p><b>Online Teaching Samples</b></p>
 
-<p><a href="https://osf.io/hv98t/">Variance and Dispersion</a></p>
-<p><a href="https://osf.io/9d2s5/">The Importance of Visualizing Correlations and Regressions</a></p>
+<p><a href="https://osf.io/y83h6/">Variance and Dispersion</a></p>
+<p><a href="https://osf.io/q8czt/">The Importance of Visualizing Correlations and Regressions</a></p>
