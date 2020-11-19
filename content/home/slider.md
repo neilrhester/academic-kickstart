@@ -73,7 +73,7 @@ height = "670px"
   overlay_filter = 0.79  # Darken the image. Value in range 0-1.
   
   cta_label = "Learn More"
-  cta_url = "https://psyarxiv.com/f2wkt"
+  cta_url = "https://neilrhester.com/files/JEPG_2020.pdf"
   cta_icon_pack = "fas"
   cta_icon = "venus-mars"
 +++
