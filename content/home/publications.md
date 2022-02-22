@@ -46,7 +46,7 @@ gradient_end = "#e5e6eb"
 +++
 
 </br></br>
-<p>Hartman, R., <strong>Hester, N.,</strong> & Gray, K. (in press). People see political opponents as more stupid than evil <em> Personality and Social Psychology Bulletin.</em></p>
+<p>Hartman, R., <strong>Hester, N.,</strong> & Gray, K. (in press). People see political opponents as more stupid than evil. <em> Personality and Social Psychology Bulletin.</em></p>
 <p><strong>Hester, N.,</strong> Xie, S. Y., & Hehman, E. (2021). <a href="https://neilrhester.com/files/PSCI_2021.pdf">Little between-region and between-country variance when forming impressions of others.</a> <em> Psychological Science.</em></p>
 <p><strong>Hester, N.,</strong> Jones, B. C., & Hehman, E. (2021). <a href="https://neilrhester.com/files/JEPG_2020.pdf">Perceived femininity and masculinity contribute independently to facial impressions.</a> <em> Journal of Experimental Psychology: General.</em></p>
 <p><strong>Hester, N.,</strong> Payne, K., Brown-Iannuzzi, J., & Gray, K. (2020). <a href="https://neilrhester.com/files/PSCI_2020.pdf">On intersectionality: How complex patterns of discrimination emerge from simple stereotypes.</a> <em>Psychological Science.</em></p> 
