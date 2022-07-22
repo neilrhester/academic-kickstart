@@ -28,7 +28,7 @@ social:
 
 ---
 
-<i>Note: I will start as an assistant professor at the University of Waterloo in August.</i>
+<i>Note: I will start as an assistant professor at the University of Waterloo in August. I am planning to admit one or two PhD students to start in Fall 2023 (Canadian applicants prioritized for funding reasons). </i>
 </br></br>
 I research intersectionality in social cognition. Intersectionality describes how systems of oppression such as racism and sexism interlock to uniquely shape people's experiences of privilege and disadvantage. Although intersectionality's roots are philosophical and qualitative, it has lots to offer quantitative researchers for refining and expanding our theories in social cognition to be more inclusive of non-WEIRD, non-White experiences. It can also help us rethink foundational assumptions in psychology--for example, how we think about the basic link between stereotyping and discrimination (see <a href="https://youtu.be/SgRSyo-LApo">this invited talk</a>).
 </br></br>
