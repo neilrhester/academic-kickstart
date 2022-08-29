@@ -65,7 +65,7 @@ height = "670px"
   
   [[item]]
   title = "Femininity and Masculinity in Face Perception"
-  content = "In person perception, femininity and masculinity are often thought of as two ends of a single dimensions. However, femininity and masculinity are actually distinct dimensions that combine (additively and interactively) to predict trait judgments, with high facial androgyny predicting positive outcomes for men. This research broadly shows that semantic opposites are not necessarily psychological opposites.</br></br>"
+  content = "In person perception, femininity and masculinity are often thought of as two ends of a single dimension. However, femininity and masculinity are actually distinct dimensions that combine (additively and interactively) to predict trait judgments, with high facial androgyny predicting positive outcomes for men. This research broadly shows that semantic opposites are not necessarily psychological opposites.</br></br>"
   align = "center"
 
   overlay_color = "#666"  # An HTML color value.
