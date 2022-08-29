@@ -46,7 +46,10 @@ gradient_end = "#e5e6eb"
 +++
 
 </br></br>
-<p><strong>Hester, N.,</strong> Axt, J. R., Siemers, N., & Hehman, E. (in press). <a href="https://neilrhester.com/files/BRM_2022_Preprint.pdf">Evaluating validity properties of 25 race-related scales.</a> <em> Behavior Research Methods.</em></p>
+
+<p><strong>Hester, N.,</strong> Xie, S. Y., Bertin, J. A., & Hehman, E. (in press). Stereotypes shape response competition when forming impressions. <em>Group Processes and Intergroup Relations.</em></p>
+<p>Hartman, R., <strong>Hester, N.,</strong> & Gray, K. (2022). People see political opponents as more stupid than evil. <em>Personal and Social Psychology Bulletin</em></p>
+<p><strong>Hester, N.,</strong> Axt, J. R., Siemers, N., & Hehman, E. (2022). <a href="https://neilrhester.com/files/BRM_2022_Preprint.pdf">Evaluating validity properties of 25 race-related scales.</a> <em> Behavior Research Methods.</em></p>
 <p>Hartman, R., <strong>Hester, N.,</strong> & Gray, K. (in press). <a href="https://neilrhester.com/files/PSPB_2022.pdf">People see political opponents as more stupid than evil.</a> <em> Personality and Social Psychology Bulletin.</em></p>
 <p><strong>Hester, N.,</strong> Xie, S. Y., & Hehman, E. (2021). <a href="https://neilrhester.com/files/PSCI_2021.pdf">Little between-region and between-country variance when forming impressions of others.</a> <em> Psychological Science.</em></p>
 <p><strong>Hester, N.,</strong> Jones, B. C., & Hehman, E. (2021). <a href="https://neilrhester.com/files/JEPG_2020.pdf">Perceived femininity and masculinity contribute independently to facial impressions.</a> <em> Journal of Experimental Psychology: General.</em></p>
