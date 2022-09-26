@@ -28,7 +28,7 @@ social:
 
 ---
 
-<i>Note: I am planning to admit one or two PhD students to start in Fall 2023 (Canadian applicants prioritized for funding reasons). <a href="https://neilrhester.com/files/JointheLab_Graduate.pdf">See here</a> for more info!</i>
+<i>Note: I plan to admit one or two PhD students to start in Fall 2023 (Canadian applicants prioritized for funding reasons). <a href="https://neilrhester.com/files/JointheLab_Graduate.pdf">See here</a> for more info!</i>
 </br></br>
 Why is it that different people seem more or less attractive, trustworthy, competent, or threatening? My work investigates the myriad factors that explain how perceivers form impressions of targets. This work encompasses topics such as stereotyping and discrimination, social categorization, face perception, and perceptions of bodies and clothing. I also grapple with issues of measurement and causal inference in the domain of person perception.
 </br></br>
