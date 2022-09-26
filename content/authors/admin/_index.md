@@ -12,7 +12,7 @@ bio: I research intersectionality in social cognition using a mix of experimenta
 social:
   - icon: cv
     icon_pack: ai
-    link: https://neilrhester.com/files/cv.pdf
+    link: https://neilrhester.com/files/Hester_CV.pdf
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=IFLcjSsAAAAJ&hl=en
