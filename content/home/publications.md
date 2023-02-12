@@ -47,7 +47,8 @@ gradient_end = "#e5e6eb"
 
 </br></br>
 
-<p><strong>Hester, N.,</strong> Xie, S. Y., Bertin, J. A., & Hehman, E. (in press). Stereotypes shape response competition when forming impressions. <em>Group Processes and Intergroup Relations.</em></p>
+<p><strong>Hester, N.,</strong> & Hehman, E. (in press). <a href="https://neilrhester.com/files/PSPR_2023_Preprint.pdf">Dress is a fundamental component of person perception.</a> <em>Personality and Social Psychology Review.</em></p>
+<p><strong>Hester, N.,</strong> Xie, S. Y., Bertin, J. A., & Hehman, E. (2022). Stereotypes shape response competition when forming impressions. <em>Group Processes and Intergroup Relations.</em></p>
 <p><strong>Hester, N.,</strong> Axt, J. R., Siemers, N., & Hehman, E. (2022). <a href="https://neilrhester.com/files/BRM_2022_Preprint.pdf">Evaluating validity properties of 25 race-related scales.</a> <em> Behavior Research Methods.</em></p>
 <p>Hartman, R., <strong>Hester, N.,</strong> & Gray, K. (2022). <a href="https://neilrhester.com/files/PSPB_2022.pdf">People see political opponents as more stupid than evil.</a> <em> Personality and Social Psychology Bulletin.</em></p>
 <p><strong>Hester, N.,</strong> Xie, S. Y., & Hehman, E. (2021). <a href="https://neilrhester.com/files/PSCI_2021.pdf">Little between-region and between-country variance when forming impressions of others.</a> <em> Psychological Science.</em></p>
