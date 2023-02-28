@@ -33,7 +33,7 @@ height = "670px"
   cta_label = "Learn More"
   cta_url = "https://neilrhester.com/files/PSPR_2023_preprint.pdf"
   cta_icon_pack = "fas"
-  cta_icon = "tshirt"
+  cta_icon = "user-tie"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
