@@ -16,6 +16,28 @@ height = "670px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
+  title = "Dress is a Fundamental Component</br>of Person Perception"
+  content = "Clothing, hairstyle, makeup, and accessories influence first impressions. However, target dress is notably absent from current theories and models of person perception. We discuss three reasons for this minimal attention to dress in person perception: high theoretical complexity, incompatibility with traditional methodology, and underappreciation by the groups who have historically guided research in person perception.</br></br>"
+  align = "center"  # Choose `center`, `left`, or `right`.
+  
+
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "dress_c.png"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.81  # Darken the image. Value in range 0-1.
+
+  # Call to action button (optional).
+  #   Activate the button by specifying a URL and button label below.
+  #   Deactivate by commenting out parameters, prefixing lines with `#`.
+  cta_label = "Learn More"
+  cta_url = "https://neilrhester.com/files/PSPR_2023_preprint.pdf"
+  cta_icon_pack = "fas"
+  cta_icon = "fa-tshirt"
+
+# Slides.
+# Duplicate an `[[item]]` block to add more slides.
+[[item]]
   title = "Intersectional Discrimination,</br>Simple Stereotypes"
   content = "Discrimination is often intersectional. For example, Black men are disproportionately stopped by police to a degree that cannot be explained by simple effects of being Black and being male. These complex patterns of discrimination might seem to necessitate intersectional stereotypes; however, they can sometimes emerge from simple stereotypes combined with threshold models of behavior.</br></br>"
   align = "center"  # Choose `center`, `left`, or `right`.
