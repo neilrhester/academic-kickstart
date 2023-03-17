@@ -16,7 +16,7 @@ height = "750px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Dress is a Fundamental Component</br>of Person Perception"
+  title = "Dress and Person Perception"
   content = "Clothing, hairstyle, makeup, and accessories influence first impressions. However, target dress is notably absent from current theories and models of person perception. We discuss three reasons for this minimal attention to dress in person perception: high theoretical complexity, incompatibility with traditional methodology, and underappreciation by the groups who have historically guided research in person perception.</br></br>"
   align = "center"  # Choose `center`, `left`, or `right`.
   
