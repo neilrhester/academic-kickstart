@@ -63,7 +63,6 @@ subtitle = ""
 <p><a href="https://www.livescience.com/62798-how-american-christians-perceive-god.html">US Christians Think God Looks a Lot Like Them</a> &#8212; Live Science</p>
 <p><a href="https://www.lapresse.ca/actualites/politique/2022-02-19/etude/les-gens-pensent-que-leurs-adversaires-politiques-sont-des-idiots.php">Les gens pensent que leurs adversaires politiques sont... des idiots</a> &#8212; La Presse</p>
 </br>
-<p><b>Online Teaching Samples</b></p>
+<p><b>Blog Posts and News Articles</b></p>
 
-<p><a href="https://osf.io/y83h6/">Variance and Dispersion</a></p>
-<p><a href="https://osf.io/q8czt/">The Importance of Visualizing Correlations and Regressions</a></p>
+<p><a href="https://spsp.org/news/character-and-context-blog/hester-clothing-first-impressions">The Messy and Neglected Study of Clothing and First Impressions</a></p>
