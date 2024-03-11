@@ -47,7 +47,7 @@ gradient_end = "#e5e6eb"
 
 </br></br>
 
-<p><strong>Hester, N.,</strong> & Hehman, E. (2023). <a href="https://neilrhester.com/files/PSPR_2023_Preprint.pdf">Dress is a fundamental component of person perception.</a> <em>Personality and Social Psychology Review.</em> <a href="https://youtu.be/fRDnqUeF94Q"><strong>(research talk available here)</strong></a></p>
+<p><strong>Hester, N.,</strong> & Hehman, E. (2023). <a href="https://neilrhester.com/files/PSPR_2023.pdf">Dress is a fundamental component of person perception.</a> <em>Personality and Social Psychology Review.</em> <a href="https://youtu.be/fRDnqUeF94Q"><strong>(research talk available here)</strong></a></p>
 <p><strong>Hester, N.,</strong> Xie, S. Y., Bertin, J. A., & Hehman, E. (2023). <a href="https://neilrhester.com/files/GPIR_2022.pdf">Stereotypes shape response competition when forming impressions.</a> <em>Group Processes and Intergroup Relations.</em></p>
 <p><strong>Hester, N.,</strong> Axt, J. R., Siemers, N., & Hehman, E. (2023). <a href="https://neilrhester.com/files/BRM_2022_Preprint.pdf">Evaluating validity properties of 25 race-related scales.</a> <em> Behavior Research Methods.</em></p>
 <p>Hartman, R., <strong>Hester, N.,</strong> & Gray, K. (2022). <a href="https://neilrhester.com/files/PSPB_2022.pdf">People see political opponents as more stupid than evil.</a> <em> Personality and Social Psychology Bulletin.</em></p>
