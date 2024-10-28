@@ -28,7 +28,7 @@ social:
 
 ---
 
-<b>Note: I am accepting a graduate student for Fall 2025.</b>
+<b>Note: I am accepting a graduate student for Fall 2025! (Though, at this time, I am unable to consider international applicants without a source of external funding.)</b>
 
 Why is it that different people are perceived as more or less attractive, trustworthy, competent, or threatening? My work investigates the myriad factors that explain how perceivers form impressions of targets. This work encompasses topics such as stereotyping and discrimination, social categorization, face perception, and perceptions of bodies and clothing. I also grapple with issues of measurement and causal inference in the domain of person perception.
 </br></br>
