@@ -16,7 +16,7 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=IFLcjSsAAAAJ&hl=en
-  - icon: bluesky
+  - icon: square_bluesky
     icon_pack: fab
     link: https://bsky.app/profile/neilrhester.bsky.social
   - icon: researchgate
