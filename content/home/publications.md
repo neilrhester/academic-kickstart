@@ -47,6 +47,7 @@ gradient_end = "#e5e6eb"
 
 </br></br>
 
+<p>Roy, E. ... <strong>Hester, N.</strong> ... Lai, C. K., Axt, J. R. (2024) A contest study to reduce attractiveness-based discrimination in social judgment. <em>Journal of Personality and Social Psychology: Attitudes and Social Cognition.</em> </p>
 <p><strong>Hester, N.,</strong> & Hehman, E. (2023). <a href="https://neilrhester.com/files/PSPR_2023.pdf">Dress is a fundamental component of person perception.</a> <em>Personality and Social Psychology Review.</em> <a href="https://youtu.be/fRDnqUeF94Q"><strong>(research talk available here)</a> <em>(winner of the ISCON Best Paper Award for 2023)</em></strong> </p>
 <p><strong>Hester, N.,</strong> Xie, S. Y., Bertin, J. A., & Hehman, E. (2023). <a href="https://neilrhester.com/files/GPIR_2022.pdf">Stereotypes shape response competition when forming impressions.</a> <em>Group Processes and Intergroup Relations.</em></p>
 <p><strong>Hester, N.,</strong> Axt, J. R., Siemers, N., & Hehman, E. (2023). <a href="https://neilrhester.com/files/BRM_2022_Preprint.pdf">Evaluating validity properties of 25 race-related scales.</a> <em> Behavior Research Methods.</em></p>
