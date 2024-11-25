@@ -31,7 +31,7 @@ height = "750px"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Learn More"
-  cta_url = "https://neilrhester.com/files/PSPR_2023_preprint.pdf"
+  cta_url = "https://neilrhester.com/files/PSPR_2023.pdf"
   cta_icon_pack = "fas"
   cta_icon = "user-tie"
 
