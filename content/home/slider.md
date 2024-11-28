@@ -17,7 +17,7 @@ height = "750px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Dress and Person Perception"
-  content = "Clothing, hairstyle, makeup, and accessories influence first impressions. However, target dress is notably absent from current theories and models of person perception. We discuss three reasons for this minimal attention to dress in person perception: high theoretical complexity, incompatibility with traditional methodology, and underappreciation by the groups who have historically guided research in person perception.</br></br>"
+  content = "Clothing, hairstyle, and accessories influence first impressions. However, target dress is notably absent from theories and models of person perception. We discuss three reasons for the neglect of dress in person perception: high theoretical complexity, incompatibility with traditional methodology, and underappreciation by the groups who have historically guided research in person perception. (2023 ISCON Best Paper)</br></br>"
   align = "center"  # Choose `center`, `left`, or `right`.
   
 
