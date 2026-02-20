@@ -57,11 +57,14 @@ subtitle = ""
 </br>
 <p><b>Selected Research Coverage:</b></p>
 
+
 <p><a href="https://psmag.com/social-justice/the-problem-with-being-tall-male-and-black">The Problem with Being Tall, Male, and Black</a> &#8212; The Pacific Standard</p>
 <p><a href="http://www.philly.com/philly/news/height-racism-bias-white-black-men-nypd-stop-and-frisk-unc-20180308.html">It&#8217;s good to be tall &#8211; unless you&#8217;re a black man</a> &#8212; Philadelphia Inquirer</p>
+<p><a href="https://www.indeed.com/career-advice/news/how-to-dress-for-success">What's the Best Thing to Bring to a Job Interview? Yourself</a> &#8212; Indeed</p>
 <p><a href="https://blavity.com/tall-black-men-can-be-up-to-six-times-more-likely-to-be-stopped-by-cops-than-white-men-of-the-same-height">Tall Black Men Can Be Up To Six Times More Likely To Be Stopped By Cops Than White Men Of The Same Height</a> &#8212; Blavity</p>
 <p><a href="https://www.livescience.com/62798-how-american-christians-perceive-god.html">US Christians Think God Looks a Lot Like Them</a> &#8212; Live Science</p>
 <p><a href="https://www.lapresse.ca/actualites/politique/2022-02-19/etude/les-gens-pensent-que-leurs-adversaires-politiques-sont-des-idiots.php">Les gens pensent que leurs adversaires politiques sont... des idiots</a> &#8212; La Presse</p>
+
 </br>
 <p><b>Blog Posts and News Articles</b></p>
 
