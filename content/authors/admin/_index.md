@@ -27,7 +27,7 @@ social:
     link: mailto:neil.hester@uwaterloo.ca
 
 ---
-<b>Note: I am not accepting graduate students for Fall 2026. If you are an undergraduate interested in a Research Assistant position, please <a href="https://www.impressionslab.org/">see the lab website.</a></b>
+<b>Note: I will consider graduate school applications for students planning to start in Fall 2027. See <a href="https://uwaterloo.ca/psychology/graduate-students/application-procedures-graduate-studies-psychology">here</a> for details. If you are an undergraduate interested in a Research Assistant position, please <a href="https://www.impressionslab.org/">see the lab website.</a></b>
 </br></br>
 Why is it that different people are perceived as more or less attractive, trustworthy, competent, or threatening? My work as director of the <a href="https://www.impressionslab.org/">Impressions Lab</a> investigates the myriad factors that explain how perceivers form impressions of targets. This work encompasses topics such as stereotyping and discrimination, perceptions of bodies and clothing, face perception, social categorization, and social cognition more broadly. I also grapple with issues of measurement and causal inference, particularly in the domain of person perception.
 </br></br>
