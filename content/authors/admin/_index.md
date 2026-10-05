@@ -28,9 +28,9 @@ social:
 
 ---
 <b>Note: I will consider graduate school applications for students planning to start in Fall 2027. See <a href="https://uwaterloo.ca/psychology/graduate-students/application-procedures-graduate-studies-psychology">here</a> for details. <br><br>If you are an undergraduate interested in a Research Assistant position, please <a href="https://www.impressionslab.org/">see the lab website.</a> <br><br>If you are interested in the <i>elfs</i> package please see the <a href="https://sarcyly.github.io/elfs/">GitHub page</a> and the <a href="https://neilrhester.com/files/elfs_preprint.pdf">preprint.</a>
-</br></br></b>
+<br><br></b>
 ~~~
-<br><br>
+</br></br>
 Why is it that different people are perceived as more or less attractive, trustworthy, competent, or threatening? My work as director of the <a href="https://www.impressionslab.org/">Impressions Lab</a> investigates the myriad factors that explain how perceivers form impressions of targets. This work encompasses topics such as stereotyping and discrimination, perceptions of bodies and clothing, face perception, social categorization, and social cognition more broadly. I also grapple with issues of measurement and causal inference, particularly in the domain of person perception.
 </br></br>
 My research engages with key theories and models in social psychology while also integrating critical ideas from outside of psychology (e.g., intersectionality theory). In my work, I use a combination of experimental methods, secondary analysis of large datasets, simulation, and mixed methods. I have published papers in various outlets, such as <i>The Proceedings of the National Academy of Sciences, Personality and Social Psychology Review, Psychological Science,</i> and <i>Perspectives on Psychological Science.</i> Outside of work, I rock climb (too much?), sing, play video games, and sometimes write music and poetry (I have an EP with a friend called <a href="https://open.spotify.com/album/0uvxgVQmEKo3FpHdRjhN1I?si=NISzzj5nQ_WtViVCEpOLVQ&fbclid=IwAR1MbbgOn3OFGy6ReI_TlBSKGseazaGQIz351pFd9qAl7UsJ6cQgumMnl0o">Sunfall</a>).
