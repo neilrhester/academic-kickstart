@@ -28,8 +28,7 @@ social:
 
 ---
 <b>Note: I will consider graduate school applications for students planning to start in Fall 2027. See <a href="https://uwaterloo.ca/psychology/graduate-students/application-procedures-graduate-studies-psychology">here</a> for details. <br><br>If you are an undergraduate interested in a Research Assistant position, please <a href="https://www.impressionslab.org/">see the lab website.</a> <br><br>If you are interested in the <i>elfs</i> package please see the <a href="https://sarcyly.github.io/elfs/">GitHub page</a> and the <a href="https://neilrhester.com/files/elfs_preprint.pdf">preprint.</a>
-<br><br></b>
-~~~
+</b>
 </br></br>
 Why is it that different people are perceived as more or less attractive, trustworthy, competent, or threatening? My work as director of the <a href="https://www.impressionslab.org/">Impressions Lab</a> investigates the myriad factors that explain how perceivers form impressions of targets. This work encompasses topics such as stereotyping and discrimination, perceptions of bodies and clothing, face perception, social categorization, and social cognition more broadly. I also grapple with issues of measurement and causal inference, particularly in the domain of person perception.
 </br></br>
