@@ -47,7 +47,7 @@ gradient_end = "#e5e6eb"
 
 </br></br>
 
-<p><em>Yee, S.</em> & <strong>Hester, N.,</strong> (in press). Clothing and context: Effects of dress norms on social judgments.<em>Journal of Personality and Social Psychology: Attitudes and Social Cognition</em> </p>
+<p><u><em>Yee, S.</em></u> & <strong>Hester, N.,</strong> (in press). Clothing and context: Effects of dress norms on social judgments.<em>Journal of Personality and Social Psychology: Attitudes and Social Cognition</em> </p>
 <p>Lim, T., Neel, R. . . . <strong>Hester, N.</strong> . . . Hehman, E. (in press). Prejudice model 2.0: A competition for improving predictive models of prejudice. <em>Journal of Personality and Social Psychology: Interpersonal Relations and Group Processes.</em> </p>
 <p><strong>Hester, N.,</strong> Roy, E., & Axt, J. R. (2026). Reducing discrimination for unequally weighted outcomes: The role of criterion location. <em>Social Cognition</em> </p>
 <p><strong>Hester, N.</strong> & Hehman, E. (2026) <a href="https://neilrhester.com/files/SPPS_2025.pdf">Differences in variance, skewness, and kurtosis can account for differences in binary outcomes.</a> <em>Social Psychological and Personality Science.</em> </p>
