@@ -47,8 +47,11 @@ gradient_end = "#e5e6eb"
 
 </br></br>
 
-<p><strong>Hester, N.,</strong> Roy, E., & Axt, J. R. (in press). Reducing discrimination for unequally weighted outcomes: The role of criterion location. <em>Social Cognition</em> </p>
-<p><strong>Hester, N.</strong> & Hehman, E. (2025) <a href="https://neilrhester.com/files/SPPS_2025.pdf">Differences in variance, skewness, and kurtosis can account for differences in binary outcomes.</a> <em>Social Psychological and Personality Science.</em> </p>
+<p><em>Yee, S.</em> & <strong>Hester, N.,</strong> (in press). Clothing and context: Effects of dress norms on social judgments.<em>Journal of Personality and Social Psychology: Attitudes and Social Cognition</em> </p>
+<p>Lim, T., Neel, R. . . . <strong>Hester, N.</strong> . . . Hehman, E. (in press). Prejudice model 2.0: A competition for improving predictive models of prejudice. <em>Journal of Personality and Social Psychology: Interpersonal Relations and Group Processes.</em> </p>
+<p><strong>Hester, N.,</strong> Roy, E., & Axt, J. R. (2026). Reducing discrimination for unequally weighted outcomes: The role of criterion location. <em>Social Cognition</em> </p>
+<p><strong>Hester, N.</strong> & Hehman, E. (2026) <a href="https://neilrhester.com/files/SPPS_2025.pdf">Differences in variance, skewness, and kurtosis can account for differences in binary outcomes.</a> <em>Social Psychological and Personality Science.</em> </p>
+<p>Dillion, D., <strong>Hester, N.,</strong> Bigman, Y., Smith, M. M., Court, J., Sarkar, A., & Gray, K. (2026). The psychology of artistic authenticity. <em>Empirical Studies of the Arts.</em> </p>
 <p>Roy, E. ... <strong>Hester, N.</strong> ... Lai, C. K., Axt, J. R. (2024) A contest study to reduce attractiveness-based discrimination in social judgment. <em>Journal of Personality and Social Psychology: Attitudes and Social Cognition.</em> </p>
 <p><strong>Hester, N.</strong> & Hehman, E. (2023). <a href="https://neilrhester.com/files/PSPR_2023.pdf">Dress is a fundamental component of person perception.</a> <em>Personality and Social Psychology Review.</em> <strong> <em>(winner of the ISCON Best Paper Award for 2023; <a href="https://www.youtube.com/watch?v=1jcsJAvvkh8">award talk here</a>) <a href="https://youtu.be/fRDnqUeF94Q">(full research talk available here)</a></em></strong> </p>
 <p><strong>Hester, N.,</strong> Xie, S. Y., Bertin, J. A., & Hehman, E. (2023). <a href="https://neilrhester.com/files/GPIR_2022.pdf">Stereotypes shape response competition when forming impressions.</a> <em>Group Processes and Intergroup Relations.</em></p>
